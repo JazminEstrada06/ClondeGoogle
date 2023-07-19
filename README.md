@@ -1,6 +1,6 @@
 # ClondeGoogle
-*** Clon de Google realizado con html y css Bootcam Tecnolochicas***
+Clon de Google realizado con html y css Bootcam Tecnolochicas
 
-#intro
+# intro
 
-#¿Qué construi?
+# ¿Qué construi?
